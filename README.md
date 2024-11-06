@@ -32,8 +32,9 @@ All topics related to development and design are logged and tracked via GitHub I
 
 _meetigns MAY vary, please follow the discussions in vidoe-dev.org `#montevideo-summerprojects` channel_
 
-- **Frequency**: Every `<day>`  
-- **Time**: `<time>`
+- **Frequency**: Every Thursday   
+- **Time**: 10 a.m. PST (13 p.m. EST)
+- **Link**: https://meet.google.com/qfq-qhfb-reb
 
 During each meeting:
 1. **Discussion on Tagged Issues**: We’ll focus on issues tagged `next meeting`, aiming to resolve roadblocks and outline actionable steps.
