@@ -14,7 +14,7 @@ The Main goal is to learn and contribute with an open-source MoQ player, either 
 
 ## Communication Channels
 
-- **video-dev.org**: Join us on the `#montevideo-summerprojects` channel to discuss the project, share updates, and collaborate.
+- **[video-dev.org](https://video-dev.org)**: Join us on the `#montevideo-summerprojects` channel to discuss the project, share updates, and collaborate.
 - **Discord**:  Also find us on the [quic.video Discord Server](https://discord.com/invite/FCYF3p99mr) in the `#summer-project` channel.
 - **GitHub Repository**: Follow and contribute at [montevideo-tech/moq-player](https://github.com/montevideo-tech/moq-player).
 
@@ -30,7 +30,7 @@ All topics related to development and design are logged and tracked via GitHub I
 
 ### Weekly Meetings
 
-_meetigns MAY vary, please follow the discussions in vidoe-dev.org `#montevideo-summerprojects` channel_
+_meetigns MAY vary, please follow the discussions in [video-dev.org](https://video-dev.org) `#montevideo-summerprojects` channel_
 
 - **Frequency**: Every Thursday   
 - **Time**: 10 a.m. PST (13 p.m. EST)
@@ -47,4 +47,4 @@ During each meeting:
 
 ---
 
-Feel free to reach out via GitHub or on video-dev.org `#montevideo-summerprojects` to get started, contribute, or ask questions. Let's make this tool a valuable resource for the video community!
+Feel free to reach out via GitHub or on [video-dev.org](https://video-dev.org) `#montevideo-summerprojects` to get started, contribute, or ask questions. Let's make this tool a valuable resource for the video community!
